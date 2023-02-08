@@ -1,0 +1,19 @@
+id: 09135e6ea0804f1d81e746f9784c946e
+annotation_type: index
+revision: '00001'
+annotations:
+  33dec7e7408449d7b53b41e802133286:
+    base: 6531.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 57
+    - title: Preface
+      span:
+        start: 58
+        end: 10021
+    - title: Colophon
+      span:
+        start: 10022
+        end: 10334
